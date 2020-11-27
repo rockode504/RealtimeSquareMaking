@@ -1,0 +1,40 @@
+body
+{
+  background: linear-gradient(to right top, #f19833, #d9259d, #18c1b3, #0aaa3f, #940039);
+}
+
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 20px bisque;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.note
+{
+    font-size: 15px;
+    color: white;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.copyright
+{
+    position: fixed;
+    color: bisque;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+canvas 
+{
+    border:5px solid darkgoldenrod;
+    border-radius:20px;
+    box-shadow:5px 5px 20px bisque;
+}
+
